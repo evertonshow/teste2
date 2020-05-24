@@ -1,3 +1,3 @@
-#Primeiros passos com git
+# Primeiros passos com git
 
 utilizando e apredendo manda repositorio .
