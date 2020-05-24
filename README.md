@@ -1,1 +1,3 @@
-1, 2,tr~es,four
+#Primeiros passos com git
+
+utilizando e apredendo manda repositorio .
